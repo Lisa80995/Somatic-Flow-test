@@ -1,3 +1,3 @@
-// Noch bewusst minimal.
-// Der Button im Hero nutzt nur einen internen Anker und springt zum Anfragebereich.
-// Später können hier z. B. sanfte Einblendungen, ein mobiles Menü oder weitere Interaktionen ergänzt werden.
+// Version 3: bewusst minimal.
+// CTA springt zum Anfragebereich.
+// Weitere Interaktionen können später ergänzt werden.
